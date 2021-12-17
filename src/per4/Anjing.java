@@ -1,9 +1,12 @@
 package per4;
 
+import java.util.Scanner;
+
 import makhlukhidup.Hewan;
 
 public class Anjing extends Hewan{
 	
+	Scanner sc = new Scanner(System.in);
 	
 	//field/state/Variable
 	int kaki;

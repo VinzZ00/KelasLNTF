@@ -36,6 +36,8 @@ public class Main {
 		Anjingvaldo.ekor = 10;
 		System.out.println(Anjingvaldo.kaki);
 		
+		
+		
 //		
 //		System.out.println("ekor Hachiko ada : " + Anjingvaldo.ekor);
 //		System.out.println("kaki Hachiko ada : " + Anjingvaldo.kaki);

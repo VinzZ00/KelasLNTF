@@ -1,5 +1,7 @@
 package pert2;
 
+import per4.Anjing;
+
 public class Main {
 
 	public Main() {
@@ -12,6 +14,7 @@ public class Main {
 //		System.out.println("ini yg normal " + a);
 //		System.out.println("Ini upper case " + uppercase);
 		
+		Anjing anjingelvin = new Anjing();
 		String concata = "Nama saya adalah : ";
 		String concatb = "Revaldo Dhamacora";
 		String concatString = concata.concat(concatb);
